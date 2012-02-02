@@ -1,6 +1,8 @@
-ceci est un test pour le tuto_git 
-cours de 2eme année N7 apprentissage info réseau
-apprentissage de git
-thibault
+Tutorial pour se servir de Git :
 
-PS : oups, j'avais oublié cette ligne : là voici maintenant :)
+Réglages globaux :
+
+git config --global user.name "Your Name"
+git config --global user.email thibault.morisse@etu.enseeiht.fr
+
+
