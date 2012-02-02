@@ -6,3 +6,12 @@ git config --global user.name "Your Name"
 git config --global user.email thibault.morisse@etu.enseeiht.fr
 
 
+Etapes suivantes : 
+  mkdir tuto_git
+  cd tuto_git
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:thibN7/tuto_git.git
+  git push -u origin master
